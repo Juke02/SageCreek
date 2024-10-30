@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SageCreek/static/css/main.f855e6bc.css",
+    "main.js": "/SageCreek/static/js/main.cfdb62ab.js",
+    "static/js/488.1e0dd17f.chunk.js": "/SageCreek/static/js/488.1e0dd17f.chunk.js",
+    "static/media/logo.svg": "/SageCreek/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SageCreek/index.html",
+    "main.f855e6bc.css.map": "/SageCreek/static/css/main.f855e6bc.css.map",
+    "main.cfdb62ab.js.map": "/SageCreek/static/js/main.cfdb62ab.js.map",
+    "488.1e0dd17f.chunk.js.map": "/SageCreek/static/js/488.1e0dd17f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cfdb62ab.js"
+  ]
+}
