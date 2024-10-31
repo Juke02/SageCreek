@@ -64,7 +64,6 @@ export function initializePopup(textureLoader, sphere) {
         { id: 'circle-35', x: 350, y: 80, texture: '42.png', floor: 2 }, 
         { id: 'circle-36', x: 362, y: 20, texture: '43.png', floor: 2 }, 
         { id: 'circle-37', x: 190, y: 20, texture: '44.png', floor: 2 }, 
-        { id: 'circle-38', x: 350, y: 200, texture: '45.png', floor: 2 }, //fix
         // Add more circles with x, y positions, textures, and associated floors
     ];
 
